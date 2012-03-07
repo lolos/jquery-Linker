@@ -1,0 +1,9 @@
+Linker  v1.0
+http://www.jquery.gr/linker
+
+jQuery Plugin for trasforming urls to links.
+
+Available protocols: http, https, www
+Options include attributes: target, class (as className) & rel
+
+First usage at schooX.com
